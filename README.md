@@ -93,13 +93,13 @@ public class YouMainClassName {
 
 #### Go to File -> Settings -> Build, Execution, Deployment -> Compiler -> Build project automatically
 
-![alt text](image.png)
+![image](https://github.com/Wolflags/SpringLiveReload/assets/61167302/43219558-4986-4470-a42a-cac995c8aa09)
 
 ### 4.2 Allow auto-make to start
 
 #### Go to File -> Settings -> Advanced Settings -> Allow auto-make to start even if developed application is currently running
 
-![alt text](image-1.png)
+![image](https://github.com/Wolflags/SpringLiveReload/assets/61167302/0c181294-e870-4e39-85b6-4ddca61aa38d)
 
 ## 5. Run the application
 
